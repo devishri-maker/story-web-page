@@ -1,0 +1,34 @@
+*
+{
+    margin:0;padding:0;
+    padding-left: 20px;
+
+
+}
+form{
+    background-color: rgb(211, 211, 13);
+    border:2px solid green;
+    width: 30%;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+label{
+    display: block;
+}
+input,select{
+    margin-left: 25px;
+    height: 25px;
+    border: 2px solid rgb(79, 150, 79);
+    color:black;
+}
+select
+{
+    padding-left: 20px;
+    height: 29px;
+}
+button{
+    background-color: navy;
+    color: white;
+    padding-right: 10px;
+    margin-left: 60px;
+}
